@@ -1,6 +1,7 @@
 # Module 4 Milestone Project - Online Shopping Cart
 # Jeff Roggen
-# CSC500
+# 2/3/25
+# CSC500-1
 
 class ItemToPurchase:
     def __init__(self):
